@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.main-layout {
+	display: flex;
+}
+.menu-layout {
+	font-size: 20px;
+}
+
+[part="input-field"] {
+	background: pink;
+}

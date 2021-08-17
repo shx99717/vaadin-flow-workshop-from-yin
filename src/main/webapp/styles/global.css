@@ -1,0 +1,6 @@
+vaadin-button {
+	--lumo-border-radius: 60px;
+}
+vaadin-text-field {
+  border: 2px solid gray;
+}
